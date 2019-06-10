@@ -1,3 +1,2 @@
-# Layer-Wise Relevance Propagation
-### Method of interpreting artificial neural networks
-This essay was written for graduate school admissions.
+# Layer-Wise Relevance Propagation: Interpreting Artificial Neural Networks
+This essay was written for admission to the Technical University of Munich's Master's in Mathematics in Data Science program.
